@@ -7,7 +7,7 @@ namespace Client_Server
     internal abstract class Server
     {
         private static readonly List<Socket> Clients = new ();
-        private static readonly Lock LockObj = new ();
+        private static readonly object LockObj = new ();
     
         public static void Main(string[] args)
         {

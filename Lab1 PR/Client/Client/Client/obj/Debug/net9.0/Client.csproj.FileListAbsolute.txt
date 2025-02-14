@@ -1,0 +1,15 @@
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/bin/Debug/net9.0/Client
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/bin/Debug/net9.0/Client.deps.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/bin/Debug/net9.0/Client.runtimeconfig.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/bin/Debug/net9.0/Client.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/bin/Debug/net9.0/Client.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.AssemblyInfoInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.AssemblyInfo.cs
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.csproj.CoreCompileInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.sourcelink.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/refint/Client.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/Client.genruntimeconfig.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/Debug/net9.0/ref/Client.dll

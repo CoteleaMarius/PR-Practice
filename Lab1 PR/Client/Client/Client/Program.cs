@@ -13,7 +13,16 @@ namespace Client
             _username = Console.ReadLine();
 
             Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-            clientSocket.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9000));
+            try
+            {
+                clientSocket.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9000));
+            }
+            catch
+            {
+                Console.WriteLine("Unable to connect to the server.");
+                Environment.Exit(0);
+            }
+            
             Console.WriteLine("Connected to the server.");
             
             Thread receiveThread = new Thread(ReceiveMessages);

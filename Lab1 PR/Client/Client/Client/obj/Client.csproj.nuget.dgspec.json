@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marius1\\Desktop\\PR-Practice\\Lab1 PR\\Client\\Client\\Client\\Client.csproj": {}
+    "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marius1\\Desktop\\PR-Practice\\Lab1 PR\\Client\\Client\\Client\\Client.csproj": {
+    "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marius1\\Desktop\\PR-Practice\\Lab1 PR\\Client\\Client\\Client\\Client.csproj",
+        "projectUniqueName": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\Marius1\\Desktop\\PR-Practice\\Lab1 PR\\Client\\Client\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\Marius1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marius1\\Desktop\\PR-Practice\\Lab1 PR\\Client\\Client\\Client\\obj\\",
+        "projectPath": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/Client.csproj",
+        "packagesPath": "/Users/mariuscotelea/.nuget/packages/",
+        "outputPath": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab1 PR/Client/Client/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marius1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/mariuscotelea/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Marius1\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/mariuscotelea/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
