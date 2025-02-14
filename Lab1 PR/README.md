@@ -54,3 +54,6 @@ Acest proiect este o aplicație simplă de mesagerie client-server implementată
 ## Autor
 - **Cotelea Marius**
 
+## Link către repozitor
+https://github.com/CoteleaMarius/PR-Practice.git
+
