@@ -6,8 +6,8 @@ namespace Client_Server
 {
     internal abstract class Server
     {
-        private static List<Socket> _clients = new List<Socket>();
-        private static object _lockObj = new object();
+        private static readonly List<Socket> Clients = new ();
+        private static readonly Lock LockObj = new ();
     
         public static void Main(string[] args)
         {
@@ -21,15 +21,14 @@ namespace Client_Server
             while (true)
             {
                 Socket clientSocket = serverSocket.Accept();
-                lock (_lockObj)
+                lock (LockObj)
                 {
-                    _clients.Add(clientSocket);
+                    Clients.Add(clientSocket);
                 }
                 Console.WriteLine("Client connected: " + clientSocket.RemoteEndPoint);
                 Thread clientThread = new Thread(HandleClient);
                 clientThread.Start(clientSocket);
             }
-            // ReSharper disable once FunctionNeverReturns
         }
 
         static void HandleClient(object obj)
@@ -48,9 +47,9 @@ namespace Client_Server
             }
             catch
             {
-                lock (_lockObj)
+                lock (LockObj)
                 {
-                    _clients.Remove(clientSocket);
+                    Clients.Remove(clientSocket);
                 }
                 Console.WriteLine("Client disconnected: " + clientSocket.RemoteEndPoint);
                 clientSocket.Close();
@@ -60,9 +59,9 @@ namespace Client_Server
         static void BroadcastMessage(string message, Socket sender)
         {
             byte[] data = Encoding.UTF8.GetBytes(message);
-            lock (_lockObj)
+            lock (LockObj)
             {
-                foreach (Socket client in _clients)
+                foreach (Socket client in Clients)
                 {
                     if (client != sender)
                     {
