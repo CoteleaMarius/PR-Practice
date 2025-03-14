@@ -1,0 +1,15 @@
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/bin/Debug/net9.0/Client-UDP
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/bin/Debug/net9.0/Client-UDP.deps.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/bin/Debug/net9.0/Client-UDP.runtimeconfig.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/bin/Debug/net9.0/Client-UDP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/bin/Debug/net9.0/Client-UDP.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.AssemblyInfoInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.AssemblyInfo.cs
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.csproj.CoreCompileInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.sourcelink.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/refint/Client-UDP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/Client-UDP.genruntimeconfig.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab2 PR/Client-UDP/obj/Debug/net9.0/ref/Client-UDP.dll
