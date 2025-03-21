@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RAiegJaVtCU=",
+  "success": true,
+  "projectFilePath": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab3 PR/DNS-Lab-3/DNS-Lab-3.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariuscotelea/.nuget/packages/dnsclient/1.8.0/dnsclient.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
