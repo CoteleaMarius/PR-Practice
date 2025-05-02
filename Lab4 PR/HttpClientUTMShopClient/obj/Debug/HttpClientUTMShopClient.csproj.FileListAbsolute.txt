@@ -1,0 +1,64 @@
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.csproj.AssemblyReference.cache
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.csproj.SuggestedBindingRedirects.cache
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.exe.config
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.csproj.CoreCompileInputs.cache
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\HttpClientUTMShopClient.exe.config
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\HttpClientUTMShopClient.exe
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\HttpClientUTMShopClient.pdb
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Buffers.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.IO.Pipelines.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Memory.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Net.Http.Json.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Numerics.Vectors.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Text.Encodings.Web.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Text.Json.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.ValueTuple.dll
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Buffers.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.IO.Pipelines.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Memory.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Net.Http.Json.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Numerics.Vectors.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Text.Encodings.Web.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Text.Json.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\bin\Debug\System.ValueTuple.xml
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClie.D9B1D28C.Up2Date
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.exe
+D:\UTM.FCIM.TI\Semestrul 6\Programarea în rețea\Laborator 4\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.pdb
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\HttpClientUTMShopClient.exe.config
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\HttpClientUTMShopClient.exe
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\HttpClientUTMShopClient.pdb
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Buffers.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.IO.Pipelines.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Memory.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Net.Http.Json.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Text.Json.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.ValueTuple.dll
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Buffers.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.IO.Pipelines.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Memory.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Net.Http.Json.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Text.Json.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\bin\Debug\System.ValueTuple.xml
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.exe.config
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClie.D9B1D28C.Up2Date
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.exe
+C:\Users\user\RiderProjects\HttpClientUTMShopClient\obj\Debug\HttpClientUTMShopClient.pdb

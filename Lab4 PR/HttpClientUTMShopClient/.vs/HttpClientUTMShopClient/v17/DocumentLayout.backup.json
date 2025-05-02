@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|d:\\utm.fcim.ti\\semestrul 6\\programarea \u00EEn re\u021Bea\\laborator 4\\httpclientutmshopclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|d:\\utm.fcim.ti\\semestrul 6\\programarea \u00EEn re\u021Bea\\laborator 4\\httpclientutmshopclient\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|d:\\utm.fcim.ti\\semestrul 6\\programarea \u00EEn re\u021Bea\\laborator 4\\httpclientutmshopclient\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|d:\\utm.fcim.ti\\semestrul 6\\programarea \u00EEn re\u021Bea\\laborator 4\\httpclientutmshopclient\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA802C13-9D9C-4596-BCE8-8207F064FBB8}|HttpClientUTMShopClient.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:24:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:06:50.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:06:33.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\UTM.FCIM.TI\\Semestrul 6\\Programarea \u00EEn re\u021Bea\\Laborator 4\\HttpClientUTMShopClient\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:55:25.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
