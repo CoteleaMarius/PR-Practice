@@ -1,0 +1,43 @@
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.exe
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/MailKit.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/MimeKit.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.deps.json
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.runtimeconfig.json
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.pdb
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.csproj.AssemblyReference.cache
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.AssemblyInfoInputs.cache
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.AssemblyInfo.cs
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.csproj.CoreCompileInputs.cache
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborato.42BBB1F7.Up2Date
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/refint/Laborator05_Email.dll
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.pdb
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.genruntimeconfig.cache
+C:/Users/Dima/Desktop/Laborator05_Email/Laborator05_Email/obj/Debug/net8.0/ref/Laborator05_Email.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.deps.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.runtimeconfig.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/Laborator05_Email.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/MailKit.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/MimeKit.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.csproj.AssemblyReference.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.AssemblyInfoInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.AssemblyInfo.cs
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.csproj.CoreCompileInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.sourcelink.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborato.42BBB1F7.Up2Date
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/refint/Laborator05_Email.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/Laborator05_Email.genruntimeconfig.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/obj/Debug/net8.0/ref/Laborator05_Email.dll
