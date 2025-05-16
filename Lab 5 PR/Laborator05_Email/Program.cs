@@ -217,7 +217,7 @@ class EmailClient
                         Console.Write("Message: ");
                         string body = Console.ReadLine();
                         Console.Write("Attachment file path (leave blank for none): ");
-                        string attachmentPath = Console.ReadLine();
+                        string attachmentPath = "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 5 PR/Laborator05_Email/cat.jpeg";
                         Console.Write("Reply-To email (leave blank for none): ");
                         string replyTo = Console.ReadLine();
 

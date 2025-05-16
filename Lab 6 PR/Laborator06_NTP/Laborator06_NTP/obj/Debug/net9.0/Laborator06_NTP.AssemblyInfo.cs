@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laborator06_NTP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7a12ce4b455bc63ba42d2acc9abd663f395bb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f80c795c3acefdfaa84e2258d7d8383e39605b66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laborator06_NTP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laborator06_NTP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

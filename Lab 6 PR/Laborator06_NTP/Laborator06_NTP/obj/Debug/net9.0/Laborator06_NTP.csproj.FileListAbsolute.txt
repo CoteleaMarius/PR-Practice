@@ -27,3 +27,18 @@ C:/Users/Dima/Desktop/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/ref/Labor
 /Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.pdb
 /Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.genruntimeconfig.cache
 /Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/ref/Laborator06_NTP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/bin/Debug/net9.0/Laborator06_NTP
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/bin/Debug/net9.0/Laborator06_NTP.deps.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/bin/Debug/net9.0/Laborator06_NTP.runtimeconfig.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/bin/Debug/net9.0/Laborator06_NTP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/bin/Debug/net9.0/Laborator06_NTP.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.AssemblyInfoInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.AssemblyInfo.cs
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.csproj.CoreCompileInputs.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.sourcelink.json
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/refint/Laborator06_NTP.dll
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.pdb
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/Laborator06_NTP.genruntimeconfig.cache
+/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/Debug/net9.0/ref/Laborator06_NTP.dll

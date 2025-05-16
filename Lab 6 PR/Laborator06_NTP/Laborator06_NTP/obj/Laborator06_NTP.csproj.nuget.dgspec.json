@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj": {}
+    "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj": {}
   },
   "projects": {
-    "/Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj": {
+    "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj",
+        "projectUniqueName": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj",
         "projectName": "Laborator06_NTP",
-        "projectPath": "/Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj",
+        "projectPath": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/Laborator06_NTP.csproj",
         "packagesPath": "/Users/mariuscotelea/.nuget/packages/",
-        "outputPath": "/Users/mariuscotelea/Downloads/Laborator06_NTP/Laborator06_NTP/obj/",
+        "outputPath": "/Users/mariuscotelea/Documents/Laboratoare/PR/PR-Practice/Lab 6 PR/Laborator06_NTP/Laborator06_NTP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariuscotelea/.nuget/NuGet/NuGet.Config"

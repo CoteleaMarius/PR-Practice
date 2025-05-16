@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laborator05_Email")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af39cd03440b00b4c2b48d4c96f9382fdeef844")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f80c795c3acefdfaa84e2258d7d8383e39605b66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laborator05_Email")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laborator05_Email")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
